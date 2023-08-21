@@ -13,12 +13,14 @@
 @import "./components/buttons";
 @import "./components/inputs";
 @import "./components/notification";
-
+@import "./components/global";
 //folder layouts
 @import "./layouts/container";
 @import "./layouts/sidebar";
 @import "./layouts/topbar";
 @import "./layouts/blursidebar";
+//folder pages
+@import "./pages/glopal";
 
 
 

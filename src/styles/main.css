@@ -754,6 +754,11 @@ p, a, button {
   border: 1px solid #c8ebe6;
 }
 
+.main-dropdown {
+  position: absolute;
+  left: 50px;
+}
+
 .container {
   max-width: 160rem;
   margin: 0 auto;
